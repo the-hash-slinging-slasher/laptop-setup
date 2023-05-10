@@ -9,6 +9,8 @@
 - [ ] iterm
 - [ ] homebrew
 - [ ] oh-my-zsh
+- [ ] fzf
+- [ ] zsh-autocompletions
 
 ## window manager
 
